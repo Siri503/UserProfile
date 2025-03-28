@@ -64,6 +64,9 @@ A RESTful API for user profile management with authentication using Express.js, 
     ```
 
     The server will start on `http://localhost:5000` (or the port specified in the `.env` file).
+5. **📖 API Documentation** 
+For detailed API endpoints and usage, check out the **Postman Documentation**:  
+🔗 [View Postman Docs](https://documenter.getpostman.com/view/27739772/2sB2cPi58j)  
 
 
 
